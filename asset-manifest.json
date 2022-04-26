@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/to_inspire/static/css/main.007e91c5.chunk.css",
-    "main.js": "/to_inspire/static/js/main.07a684d1.chunk.js",
-    "main.js.map": "/to_inspire/static/js/main.07a684d1.chunk.js.map",
+    "main.css": "/to_inspire/static/css/main.c0cd0798.chunk.css",
+    "main.js": "/to_inspire/static/js/main.ce358855.chunk.js",
+    "main.js.map": "/to_inspire/static/js/main.ce358855.chunk.js.map",
     "runtime-main.js": "/to_inspire/static/js/runtime-main.85135e72.js",
     "runtime-main.js.map": "/to_inspire/static/js/runtime-main.85135e72.js.map",
     "static/js/2.ab878b8e.chunk.js": "/to_inspire/static/js/2.ab878b8e.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.35fd4805.chunk.js": "/to_inspire/static/js/3.35fd4805.chunk.js",
     "static/js/3.35fd4805.chunk.js.map": "/to_inspire/static/js/3.35fd4805.chunk.js.map",
     "index.html": "/to_inspire/index.html",
-    "static/css/main.007e91c5.chunk.css.map": "/to_inspire/static/css/main.007e91c5.chunk.css.map",
+    "static/css/main.c0cd0798.chunk.css.map": "/to_inspire/static/css/main.c0cd0798.chunk.css.map",
     "static/js/2.ab878b8e.chunk.js.LICENSE.txt": "/to_inspire/static/js/2.ab878b8e.chunk.js.LICENSE.txt",
     "static/media/circulo.a35291b5.png": "/to_inspire/static/media/circulo.a35291b5.png",
     "static/media/press.de8b2cf4.png": "/to_inspire/static/media/press.de8b2cf4.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.85135e72.js",
     "static/js/2.ab878b8e.chunk.js",
-    "static/css/main.007e91c5.chunk.css",
-    "static/js/main.07a684d1.chunk.js"
+    "static/css/main.c0cd0798.chunk.css",
+    "static/js/main.ce358855.chunk.js"
   ]
 }
